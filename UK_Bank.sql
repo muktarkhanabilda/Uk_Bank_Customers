@@ -1,0 +1,1 @@
+select * from uk_bank_uk_bankcustomers;

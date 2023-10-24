@@ -1,0 +1,1001 @@
+job_title,hh_title,age,salary,exp. period,title of exp.
+data analyst,Data analyst,22,,2.67,Data Analyst
+data analyst,Data Analyst,21,,0.83,Junior Data Analyst
+data analyst,Data Analyst,30,,7.5,Data Analyst
+data analyst,Data Analyst,24,,4.92,Data Analyst
+data analyst,Data Analyst,27,450000,3.25,Business Intelligence Analyst
+data analyst,Data analyst,NaN,800000,7.25,Senior analyst in business modeling sector
+data analyst,Data Quality Analyst,34,,7.83,Data Quality Analyst
+data analyst,Data Scientist,21,,1.17,Data analyst
+data analyst,Data Analyst,31,,6.33,CRM Manager
+data analyst,Data Analyst (Junior),22,,0.5,Data Engineer
+data analyst,Аналитик,29,,6.75,Data scientist
+data analyst,Data Analyst,25,860000,2.92,Ведущий специалист СВМ Департамента планирования и отчетности
+data analyst,Software Developer,28,950000,7.25,Data Analyst
+data analyst,GIS/Data Analyst  Scientist  Engineer,30,,5.92,IM Data Analyst
+data analyst,Data analyst,23,,3.5,Assurance Advanced Specialist
+data analyst,Data analyst,29,500000,6.75,Ведущий инженер проекта
+data analyst,Data analyst  Data engeneer  Data Scientist,22,,2.5,Data Engineer
+data analyst,Data Scientist,NaN,,4.25,Senior Data Scientist
+data analyst,Аналитик Big Data,24,,1.83,Бизнес-аналитик
+data analyst,Data analyst,29,,6.92,Trainer.
+data analyst,Data Scientist / Big Data Analyst,54,,26.58,Data Science Team Lead / Data Scientist
+data analyst,Data analyst,22,500000,3.33,Interpreter
+data analyst,Analyst,32,,12.83,Analyst
+data analyst,Data analyst,27,800000,5.75,Разработчик
+data analyst,Web Developer(React Js)/Data Analyst,23,,1.08,Junior Business Data Analyst
+data analyst,Data Analyst,25,,5.58,Старший специалист отдела управления инцидентами
+data analyst,Analyst,32,,8.42,BI Analyst
+data analyst,Экономист-аналитик,22,500000,1.92,Senior Data Analyst
+data analyst,Data Scientist,23,,0.5,дата-аналитик
+data analyst,Data Analyst,24,250000,1.25,Research Assistant
+data analyst,Data Analyst Quantamental Research,39,,17.25,Data Analyst Quantamental Research
+data analyst,Data scientist/Data analyst/Аналитик,30,1000000,6.67,Data Quality Analytic
+data analyst,Analyst,23,,4.5,Intern  risk advisory
+data analyst,Contract Administrator,30,500000,7.67,CMS Data Analyst
+data analyst,Data Scientist  Certified Scrum Master,28,1000000,7.42,Data Scientist  Scrum Master
+data analyst,Data Analyst  Information Management,26,700000,0.25,Corporate Systems Specialist
+data analyst,Data аналитик,29,,10.42,IT-инженер
+data analyst,data scientist/analyst,21,,1.08,преподователь математики
+data analyst,Data Scientist/Data Analyst,24,300000,0.75,Ассистент Преподавателя
+data analyst,Analyst,32,,9.42,Project manager - Branches curator
+data analyst,Data analyst,22,,2.67,Data Analyst
+data analyst,Data Analyst,21,,0.83,Junior Data Analyst
+data analyst,Data Analyst,30,,7.5,Data Analyst
+data analyst,Data Analyst,24,,4.92,Data Analyst
+data analyst,Data Analyst,27,450000,3.25,Business Intelligence Analyst
+data analyst,Data analyst,NaN,800000,7.25,Senior analyst in business modeling sector
+data analyst,Data Quality Analyst,34,,7.83,Data Quality Analyst
+data analyst,Data Scientist,21,,1.17,Data analyst
+data analyst,Data Analyst,31,,6.33,CRM Manager
+data analyst,Data Analyst (Junior),22,,0.5,Data Engineer
+data analyst,Аналитик,29,,6.75,Data scientist
+data analyst,Data Analyst,25,860000,2.92,Ведущий специалист СВМ Департамента планирования и отчетности
+data analyst,Software Developer,28,950000,7.25,Data Analyst
+data analyst,GIS/Data Analyst  Scientist  Engineer,30,,5.92,IM Data Analyst
+data analyst,Data analyst,23,,3.5,Assurance Advanced Specialist
+data analyst,Data analyst,29,500000,6.75,Ведущий инженер проекта
+data analyst,Data analyst  Data engeneer  Data Scientist,22,,2.5,Data Engineer
+data analyst,Data Scientist,NaN,,4.25,Senior Data Scientist
+data analyst,Аналитик Big Data,24,,1.83,Бизнес-аналитик
+data analyst,Data analyst,29,,6.92,Trainer.
+data analyst,Data Scientist / Big Data Analyst,54,,26.58,Data Science Team Lead / Data Scientist
+data analyst,Data analyst,22,500000,3.33,Interpreter
+data analyst,Data analyst,27,800000,5.75,Разработчик
+data analyst,Analyst,32,,12.83,Analyst
+data analyst,Web Developer(React Js)/Data Analyst,23,,1.08,Junior Business Data Analyst
+data analyst,Data Analyst,25,,5.58,Старший специалист отдела управления инцидентами
+data analyst,Analyst,32,,8.42,BI Analyst
+data analyst,Экономист-аналитик,22,500000,1.92,Senior Data Analyst
+data analyst,Data Scientist,23,,0.5,дата-аналитик
+data analyst,Data Analyst,24,250000,1.25,Research Assistant
+data analyst,Data Analyst Quantamental Research,39,,17.25,Data Analyst Quantamental Research
+data analyst,Data scientist/Data analyst/Аналитик,30,1000000,6.67,Data Quality Analytic
+data analyst,Analyst,23,,4.5,Intern  risk advisory
+data analyst,Contract Administrator,30,500000,7.67,CMS Data Analyst
+data analyst,Data Scientist  Certified Scrum Master,28,1000000,7.42,Data Scientist  Scrum Master
+data analyst,Data Analyst  Information Management,26,700000,0.25,Corporate Systems Specialist
+data analyst,Data аналитик,29,,10.42,IT-инженер
+data analyst,data scientist/analyst,21,,1.08,преподователь математики
+data analyst,Revenue analyst | Data Analyst,28,500000,4.33,Revenue management Supervisor
+data analyst,Data Scientist/Data Analyst,24,300000,0.75,Ассистент Преподавателя
+data analyst,Data analyst,22,,2.67,Data Analyst
+data analyst,Data Analyst,21,,0.83,Junior Data Analyst
+data analyst,Data Analyst,30,,7.5,Data Analyst
+data analyst,Data Analyst,24,,4.92,Data Analyst
+data analyst,Data Analyst,27,450000,3.25,Business Intelligence Analyst
+data analyst,Data analyst,NaN,800000,7.25,Senior analyst in business modeling sector
+data analyst,Data Quality Analyst,34,,7.83,Data Quality Analyst
+data analyst,Data Scientist,21,,1.17,Data analyst
+data analyst,Data Analyst,31,,6.33,CRM Manager
+data analyst,Data Analyst (Junior),22,,0.5,Data Engineer
+data analyst,Аналитик,29,,6.75,Data scientist
+data analyst,Data Analyst,25,860000,2.92,Ведущий специалист СВМ Департамента планирования и отчетности
+data analyst,Software Developer,28,950000,7.25,Data Analyst
+data analyst,GIS/Data Analyst  Scientist  Engineer,30,,5.92,IM Data Analyst
+data analyst,Data analyst,23,,3.5,Assurance Advanced Specialist
+data analyst,Data analyst,29,500000,6.75,Ведущий инженер проекта
+data analyst,Data analyst  Data engeneer  Data Scientist,22,,2.5,Data Engineer
+data analyst,Data Scientist,NaN,,4.25,Senior Data Scientist
+data analyst,Аналитик Big Data,24,,1.83,Бизнес-аналитик
+data analyst,Data analyst,29,,6.92,Trainer.
+data analyst,Data Scientist / Big Data Analyst,54,,26.58,Data Science Team Lead / Data Scientist
+data analyst,Data analyst,22,500000,3.33,Interpreter
+data analyst,Data analyst,27,800000,5.75,Разработчик
+data analyst,Analyst,32,,12.83,Analyst
+data analyst,Web Developer(React Js)/Data Analyst,23,,1.08,Junior Business Data Analyst
+data analyst,Data Analyst,25,,5.58,Старший специалист отдела управления инцидентами
+data analyst,Analyst,32,,8.42,BI Analyst
+data analyst,Экономист-аналитик,22,500000,1.92,Senior Data Analyst
+data analyst,Data Scientist,23,,0.5,дата-аналитик
+data analyst,Data Analyst,24,250000,1.25,Research Assistant
+data analyst,Data Analyst Quantamental Research,39,,17.25,Data Analyst Quantamental Research
+data analyst,Data scientist/Data analyst/Аналитик,30,1000000,6.67,Data Quality Analytic
+data analyst,Analyst,23,,4.5,Intern  risk advisory
+data analyst,Contract Administrator,30,500000,7.67,CMS Data Analyst
+data analyst,Data Scientist  Certified Scrum Master,28,1000000,7.42,Data Scientist  Scrum Master
+data analyst,Data Analyst  Information Management,26,700000,0.25,Corporate Systems Specialist
+data analyst,Data аналитик,29,,10.42,IT-инженер
+data analyst,data scientist/analyst,21,,1.08,преподователь математики
+data analyst,Revenue analyst | Data Analyst,28,500000,4.33,Revenue management Supervisor
+data analyst,Data Scientist/Data Analyst,24,300000,0.75,Ассистент Преподавателя
+data analyst,Data analyst,22,,2.67,Data Analyst
+data analyst,Data Analyst,21,,0.83,Junior Data Analyst
+data analyst,Data Analyst,30,,7.5,Data Analyst
+data analyst,Data Analyst,24,,4.92,Data Analyst
+data analyst,Data Analyst,27,450000,3.25,Business Intelligence Analyst
+data analyst,Data analyst,NaN,800000,7.25,Senior analyst in business modeling sector
+data analyst,Data Quality Analyst,34,,7.83,Data Quality Analyst
+data analyst,Data Scientist,21,,1.17,Data analyst
+data analyst,Data Analyst,31,,6.33,CRM Manager
+data analyst,Data Analyst (Junior),22,,0.5,Data Engineer
+data analyst,Аналитик,29,,6.75,Data scientist
+data analyst,Data Analyst,25,860000,2.92,Ведущий специалист СВМ Департамента планирования и отчетности
+data analyst,Software Developer,28,950000,7.25,Data Analyst
+data analyst,GIS/Data Analyst  Scientist  Engineer,30,,5.92,IM Data Analyst
+data analyst,Data analyst,23,,3.5,Assurance Advanced Specialist
+data analyst,Data analyst,29,500000,6.75,Ведущий инженер проекта
+data analyst,Data analyst  Data engeneer  Data Scientist,22,,2.5,Data Engineer
+data analyst,Data Scientist,NaN,,4.25,Senior Data Scientist
+data analyst,Аналитик Big Data,24,,1.83,Бизнес-аналитик
+data analyst,Data analyst,29,,6.92,Trainer.
+data analyst,Data Scientist / Big Data Analyst,54,,26.58,Data Science Team Lead / Data Scientist
+data analyst,Data analyst,22,500000,3.33,Interpreter
+data analyst,Data analyst,27,800000,5.75,Разработчик
+data analyst,Analyst,32,,12.83,Analyst
+data analyst,Web Developer(React Js)/Data Analyst,23,,1.08,Junior Business Data Analyst
+data analyst,Data Analyst,25,,5.58,Старший специалист отдела управления инцидентами
+data analyst,Analyst,32,,8.42,BI Analyst
+data analyst,Экономист-аналитик,22,500000,1.92,Senior Data Analyst
+data analyst,Data Scientist,23,,0.5,дата-аналитик
+data analyst,Data Analyst,24,250000,1.25,Research Assistant
+data analyst,Data Analyst Quantamental Research,39,,17.25,Data Analyst Quantamental Research
+data analyst,Data scientist/Data analyst/Аналитик,30,1000000,6.67,Data Quality Analytic
+data analyst,Analyst,23,,4.5,Intern  risk advisory
+data analyst,Contract Administrator,30,500000,7.67,CMS Data Analyst
+data analyst,Data Scientist  Certified Scrum Master,28,1000000,7.42,Data Scientist  Scrum Master
+data analyst,Data Analyst  Information Management,26,700000,0.25,Corporate Systems Specialist
+data analyst,Data аналитик,29,,10.42,IT-инженер
+data analyst,data scientist/analyst,21,,1.08,преподователь математики
+data analyst,Revenue analyst | Data Analyst,28,500000,4.33,Revenue management Supervisor
+data analyst,Data Scientist/Data Analyst,24,300000,0.75,Ассистент Преподавателя
+data analyst,Data analyst,22,,2.67,Data Analyst
+data analyst,Data Analyst,21,,0.83,Junior Data Analyst
+data analyst,Data Analyst,30,,7.5,Data Analyst
+data analyst,Data Analyst,24,,4.92,Data Analyst
+data analyst,Data Analyst,27,450000,3.25,Business Intelligence Analyst
+data analyst,Data analyst,NaN,800000,7.25,Senior analyst in business modeling sector
+data analyst,Data Quality Analyst,34,,7.83,Data Quality Analyst
+data analyst,Data Scientist,21,,1.17,Data analyst
+data analyst,Data Analyst,31,,6.33,CRM Manager
+data analyst,Data Analyst (Junior),22,,0.5,Data Engineer
+data analyst,Аналитик,29,,6.75,Data scientist
+data analyst,Data Analyst,25,860000,2.92,Ведущий специалист СВМ Департамента планирования и отчетности
+data analyst,Software Developer,28,950000,7.25,Data Analyst
+data analyst,GIS/Data Analyst  Scientist  Engineer,30,,5.92,IM Data Analyst
+data analyst,Data analyst,23,,3.5,Assurance Advanced Specialist
+data analyst,Data analyst,29,500000,6.75,Ведущий инженер проекта
+data analyst,Data analyst  Data engeneer  Data Scientist,22,,2.5,Data Engineer
+data analyst,Data Scientist,NaN,,4.25,Senior Data Scientist
+data analyst,Аналитик Big Data,24,,1.83,Бизнес-аналитик
+data analyst,Data analyst,29,,6.92,Trainer.
+data analyst,Data Scientist / Big Data Analyst,54,,26.58,Data Science Team Lead / Data Scientist
+data analyst,Data analyst,22,500000,3.33,Interpreter
+data analyst,Analyst,32,,12.83,Analyst
+data analyst,Data analyst,27,800000,5.75,Разработчик
+data analyst,Web Developer(React Js)/Data Analyst,23,,1.08,Junior Business Data Analyst
+data analyst,Data Analyst,25,,5.58,Старший специалист отдела управления инцидентами
+data analyst,Analyst,32,,8.42,BI Analyst
+data analyst,Экономист-аналитик,22,500000,1.92,Senior Data Analyst
+data analyst,Data Scientist,23,,0.5,дата-аналитик
+data analyst,Data Analyst,24,250000,1.25,Research Assistant
+data analyst,Data Analyst Quantamental Research,39,,17.25,Data Analyst Quantamental Research
+data analyst,Data scientist/Data analyst/Аналитик,30,1000000,6.67,Data Quality Analytic
+data analyst,Analyst,23,,4.5,Intern  risk advisory
+data analyst,Contract Administrator,30,500000,7.67,CMS Data Analyst
+data analyst,Data Scientist  Certified Scrum Master,28,1000000,7.42,Data Scientist  Scrum Master
+data analyst,Data Analyst  Information Management,26,700000,0.25,Corporate Systems Specialist
+data analyst,Data аналитик,29,,10.42,IT-инженер
+data analyst,data scientist/analyst,21,,1.08,преподователь математики
+data analyst,Revenue analyst | Data Analyst,28,500000,4.33,Revenue management Supervisor
+data analyst,Data Scientist/Data Analyst,24,300000,0.75,Ассистент Преподавателя
+data scientist,data scientist,26,,3.42,Data Scientist
+data scientist,Data Scientist,NaN,,4.25,Senior Data Scientist
+data scientist,Data Scientist,24,,2.25,Data Scientists
+data scientist,Data scientist,NaN,473000,3.83,Data scientist
+data scientist,Data Scientist,20,300000,0.92,Data Scientist
+data scientist,Data scientist,28,,5.33,Data scientist
+data scientist,Data Scientist,25,,2.33,Data Scientist
+data scientist,Data Scientist,21,,1.17,Data analyst
+data scientist,Data Scientist,NaN,400000,0.17,Business Process Developer
+data scientist,Data analyst,22,,2.67,Data Analyst
+data scientist,Data Scientist,54,,24.5,Data Science Team Lead  Data Scientist
+data scientist,Data scientist,21,,0.33,Стажер Big Data
+data scientist,Data scientist,30,,4.67,Data Science / Programming
+data scientist,Python-разработчик (Junior\ Middle),28,,3.5,Data scientist
+data scientist,Data science  Machine learning,21,,2.58,Data scientist
+data scientist,Data Scientist,NaN,,0,Unknown
+data scientist,Data Scientist,20,,1.5,Менеджер по управлению рисками
+data scientist,Data Scientist  Certified Scrum Master,28,1000000,7.42,Data Scientist  Scrum Master
+data scientist,Data Scientist,21,,0,Unknown
+data scientist,Data scientist(NLP),30,,6.25,Data scientist
+data scientist,Data Scientist,21,300000,1.33,Software developer
+data scientist,Data scientist,21,,0,Unknown
+data scientist,Data scientist,24,,1.67,Преподаватель
+data scientist,Data scientist,NaN,,3.92,Управляющий директор
+data scientist,Data science (Аналитик данных),27,,3.33,Data scientist
+data scientist,Data Scientist,23,,0.75,Research Assistant
+data scientist,Data Scientist,23,,0.5,дата-аналитик
+data scientist,Data Scientist/Machine Learning Engineer,28,,6.17,Data Scientist
+data scientist,Аналитик,29,,6.75,Data scientist
+data scientist,Data analyst  Data engeneer  Data Scientist,22,,2.5,Data Engineer
+data scientist,Data Scientist,34,,9.58,Researcher
+data scientist,data scientist/analyst,21,,1.08,преподователь математики
+data scientist,GIS/Data Analyst  Scientist  Engineer,30,,5.92,IM Data Analyst
+data scientist,Data Scientist/Data Analyst,24,300000,0.75,Ассистент Преподавателя
+data scientist,Data scientist/Data analyst/Аналитик,30,1000000,6.67,Data Quality Analytic
+data scientist,Junior Data Scientist,22,150000,0,Unknown
+data scientist,Data Scientist,25,,1.5,Junior Project Manager
+data scientist,Data Scientist,21,,0,Unknown
+data scientist,Intern Data Scientists,22,,0.5,Intern
+data scientist,Junior data scientist,22,,5.25,Репетитор по математике
+data scientist,data scientist,26,,3.42,Data Scientist
+data scientist,Data Scientist,NaN,,4.25,Senior Data Scientist
+data scientist,Data Scientist,24,,2.25,Data Scientists
+data scientist,Data scientist,NaN,473000,3.83,Data scientist
+data scientist,Data Scientist,20,300000,0.92,Data Scientist
+data scientist,Data scientist,28,,5.33,Data scientist
+data scientist,Data Scientist,25,,2.33,Data Scientist
+data scientist,Data Scientist,21,,1.17,Data analyst
+data scientist,Data Scientist,NaN,400000,0.17,Business Process Developer
+data scientist,Data analyst,22,,2.67,Data Analyst
+data scientist,Data Scientist,54,,24.5,Data Science Team Lead  Data Scientist
+data scientist,Data scientist,21,,0.33,Стажер Big Data
+data scientist,Data scientist,30,,4.67,Data Science / Programming
+data scientist,Python-разработчик (Junior\ Middle),28,,3.5,Data scientist
+data scientist,Data science  Machine learning,21,,2.58,Data scientist
+data scientist,Data Scientist,NaN,,0,Unknown
+data scientist,Data Scientist,20,,1.5,Менеджер по управлению рисками
+data scientist,Data Scientist  Certified Scrum Master,28,1000000,7.42,Data Scientist  Scrum Master
+data scientist,Data Scientist,21,,0,Unknown
+data scientist,Data scientist(NLP),30,,6.25,Data scientist
+data scientist,Data Scientist,21,300000,1.33,Software developer
+data scientist,Data scientist,21,,0,Unknown
+data scientist,Data scientist,24,,1.67,Преподаватель
+data scientist,Data scientist,NaN,,3.92,Управляющий директор
+data scientist,Data science (Аналитик данных),27,,3.33,Data scientist
+data scientist,Data Scientist,23,,0.75,Research Assistant
+data scientist,Data Scientist,23,,0.5,дата-аналитик
+data scientist,Data Scientist/Machine Learning Engineer,28,,6.17,Data Scientist
+data scientist,Аналитик,29,,6.75,Data scientist
+data scientist,Data analyst  Data engeneer  Data Scientist,22,,2.5,Data Engineer
+data scientist,Data Scientist,34,,9.58,Researcher
+data scientist,data scientist/analyst,21,,1.08,преподователь математики
+data scientist,GIS/Data Analyst  Scientist  Engineer,30,,5.92,IM Data Analyst
+data scientist,Data Scientist/Data Analyst,24,300000,0.75,Ассистент Преподавателя
+data scientist,Data scientist/Data analyst/Аналитик,30,1000000,6.67,Data Quality Analytic
+data scientist,Junior Data Scientist,22,150000,0,Unknown
+data scientist,Data Scientist,25,,1.5,Junior Project Manager
+data scientist,Data Scientist,21,,0,Unknown
+data scientist,Intern Data Scientists,22,,0.5,Intern
+data scientist,Junior data scientist,22,,5.25,Репетитор по математике
+data scientist,data scientist,26,,3.42,Data Scientist
+data scientist,Data Scientist,NaN,,4.25,Senior Data Scientist
+data scientist,Data Scientist,24,,2.25,Data Scientists
+data scientist,Data scientist,NaN,473000,3.83,Data scientist
+data scientist,Data Scientist,20,300000,0.92,Data Scientist
+data scientist,Data scientist,28,,5.33,Data scientist
+data scientist,Data Scientist,25,,2.33,Data Scientist
+data scientist,Data Scientist,21,,1.17,Data analyst
+data scientist,Data Scientist,NaN,400000,0.17,Business Process Developer
+data scientist,Data analyst,22,,2.67,Data Analyst
+data scientist,Data Scientist,54,,24.5,Data Science Team Lead  Data Scientist
+data scientist,Data scientist,21,,0.33,Стажер Big Data
+data scientist,Data scientist,30,,4.67,Data Science / Programming
+data scientist,Python-разработчик (Junior\ Middle),28,,3.5,Data scientist
+data scientist,Data science  Machine learning,21,,2.58,Data scientist
+data scientist,Data Scientist,NaN,,0,Unknown
+data scientist,Data Scientist,20,,1.5,Менеджер по управлению рисками
+data scientist,Data Scientist  Certified Scrum Master,28,1000000,7.42,Data Scientist  Scrum Master
+data scientist,Data Scientist,21,,0,Unknown
+data scientist,Data scientist(NLP),30,,6.25,Data scientist
+data scientist,Data Scientist,21,300000,1.33,Software developer
+data scientist,Data scientist,21,,0,Unknown
+data scientist,Data scientist,24,,1.67,Преподаватель
+data scientist,Data scientist,NaN,,3.92,Управляющий директор
+data scientist,Data science (Аналитик данных),27,,3.33,Data scientist
+data scientist,Data Scientist,23,,0.75,Research Assistant
+data scientist,Data Scientist,23,,0.5,дата-аналитик
+data scientist,Data Scientist/Machine Learning Engineer,28,,6.17,Data Scientist
+data scientist,Аналитик,29,,6.75,Data scientist
+data scientist,Data analyst  Data engeneer  Data Scientist,22,,2.5,Data Engineer
+data scientist,Data Scientist,34,,9.58,Researcher
+data scientist,data scientist/analyst,21,,1.08,преподователь математики
+data scientist,GIS/Data Analyst  Scientist  Engineer,30,,5.92,IM Data Analyst
+data scientist,Data Scientist/Data Analyst,24,300000,0.75,Ассистент Преподавателя
+data scientist,Data scientist/Data analyst/Аналитик,30,1000000,6.67,Data Quality Analytic
+data scientist,Junior Data Scientist,22,150000,0,Unknown
+data scientist,Data Scientist,25,,1.5,Junior Project Manager
+data scientist,Data Scientist,21,,0,Unknown
+data scientist,Intern Data Scientists,22,,0.5,Intern
+data scientist,Junior data scientist,22,,5.25,Репетитор по математике
+data scientist,data scientist,26,,3.42,Data Scientist
+data scientist,Data Scientist,NaN,,4.25,Senior Data Scientist
+data scientist,Data Scientist,24,,2.25,Data Scientists
+data scientist,Data scientist,NaN,473000,3.83,Data scientist
+data scientist,Data Scientist,20,300000,0.92,Data Scientist
+data scientist,Data scientist,28,,5.33,Data scientist
+data scientist,Data Scientist,25,,2.33,Data Scientist
+data scientist,Data Scientist,21,,1.17,Data analyst
+data scientist,Data Scientist,NaN,400000,0.17,Business Process Developer
+data scientist,Data analyst,22,,2.67,Data Analyst
+data scientist,Data Scientist,54,,24.5,Data Science Team Lead  Data Scientist
+data scientist,Data scientist,21,,0.33,Стажер Big Data
+data scientist,Data scientist,30,,4.67,Data Science / Programming
+data scientist,Python-разработчик (Junior\ Middle),28,,3.5,Data scientist
+data scientist,Data science  Machine learning,21,,2.58,Data scientist
+data scientist,Data Scientist,NaN,,0,Unknown
+data scientist,Data Scientist,20,,1.5,Менеджер по управлению рисками
+data scientist,Data Scientist  Certified Scrum Master,28,1000000,7.42,Data Scientist  Scrum Master
+data scientist,Data Scientist,21,,0,Unknown
+data scientist,Data scientist(NLP),30,,6.25,Data scientist
+data scientist,Data Scientist,21,300000,1.33,Software developer
+data scientist,Data scientist,21,,0,Unknown
+data scientist,Data scientist,24,,1.67,Преподаватель
+data scientist,Data scientist,NaN,,3.92,Управляющий директор
+data scientist,Data science (Аналитик данных),27,,3.33,Data scientist
+data scientist,Data Scientist,23,,0.75,Research Assistant
+data scientist,Data Scientist,23,,0.5,дата-аналитик
+data scientist,Data Scientist/Machine Learning Engineer,28,,6.17,Data Scientist
+data scientist,Аналитик,29,,6.75,Data scientist
+data scientist,Data analyst  Data engeneer  Data Scientist,22,,2.5,Data Engineer
+data scientist,Data Scientist,34,,9.58,Researcher
+data scientist,data scientist/analyst,21,,1.08,преподователь математики
+data scientist,GIS/Data Analyst  Scientist  Engineer,30,,5.92,IM Data Analyst
+data scientist,Data Scientist/Data Analyst,24,300000,0.75,Ассистент Преподавателя
+data scientist,Data scientist/Data analyst/Аналитик,30,1000000,6.67,Data Quality Analytic
+data scientist,Junior Data Scientist,22,150000,0,Unknown
+data scientist,Data Scientist,25,,1.5,Junior Project Manager
+data scientist,Data Scientist,21,,0,Unknown
+data scientist,Intern Data Scientists,22,,0.5,Intern
+data scientist,Junior data scientist,22,,5.25,Репетитор по математике
+data scientist,data scientist,26,,3.42,Data Scientist
+data scientist,Data Scientist,NaN,,4.25,Senior Data Scientist
+data scientist,Data Scientist,24,,2.25,Data Scientists
+data scientist,Data scientist,NaN,473000,3.83,Data scientist
+data scientist,Data Scientist,20,300000,0.92,Data Scientist
+data scientist,Data scientist,28,,5.33,Data scientist
+data scientist,Data Scientist,25,,2.33,Data Scientist
+data scientist,Data Scientist,21,,1.17,Data analyst
+data scientist,Data Scientist,NaN,400000,0.17,Business Process Developer
+data scientist,Data analyst,22,,2.67,Data Analyst
+data scientist,Data Scientist,54,,24.5,Data Science Team Lead  Data Scientist
+data scientist,Data scientist,21,,0.33,Стажер Big Data
+data scientist,Data scientist,30,,4.67,Data Science / Programming
+data scientist,Python-разработчик (Junior\ Middle),28,,3.5,Data scientist
+data scientist,Data science  Machine learning,21,,2.58,Data scientist
+data scientist,Data Scientist,NaN,,0,Unknown
+data scientist,Data Scientist,20,,1.5,Менеджер по управлению рисками
+data scientist,Data Scientist  Certified Scrum Master,28,1000000,7.42,Data Scientist  Scrum Master
+data scientist,Data Scientist,21,,0,Unknown
+data scientist,Data scientist(NLP),30,,6.25,Data scientist
+data scientist,Data Scientist,21,300000,1.33,Software developer
+data scientist,Data scientist,21,,0,Unknown
+data scientist,Data scientist,24,,1.67,Преподаватель
+data scientist,Data scientist,NaN,,3.92,Управляющий директор
+data scientist,Data science (Аналитик данных),27,,3.33,Data scientist
+data scientist,Data Scientist,23,,0.75,Research Assistant
+data scientist,Data Scientist,23,,0.5,дата-аналитик
+data scientist,Data Scientist/Machine Learning Engineer,28,,6.17,Data Scientist
+data scientist,Аналитик,29,,6.75,Data scientist
+data scientist,Data analyst  Data engeneer  Data Scientist,22,,2.5,Data Engineer
+data scientist,Data Scientist,34,,9.58,Researcher
+data scientist,data scientist/analyst,21,,1.08,преподователь математики
+data scientist,GIS/Data Analyst  Scientist  Engineer,30,,5.92,IM Data Analyst
+data scientist,Data Scientist/Data Analyst,24,300000,0.75,Ассистент Преподавателя
+data scientist,Data scientist/Data analyst/Аналитик,30,1000000,6.67,Data Quality Analytic
+data scientist,Junior Data Scientist,22,150000,0,Unknown
+data scientist,Data Scientist,25,,1.5,Junior Project Manager
+data scientist,Data Scientist,21,,0,Unknown
+data scientist,Intern Data Scientists,22,,0.5,Intern
+data scientist,Junior data scientist,22,,5.25,Репетитор по математике
+data engineer,Data engineer,25,,2.17,Data Engineer
+data engineer,Data Analyst (Junior),22,,0.5,Data Engineer
+data engineer,Data Engineer  Data Quality Engineer,28,,6.67,Data Engineer  Data Quality Engineer
+data engineer,Engineer,22,,1.92,Data Operator
+data engineer,Data engineer,25,,3.42,Data Engineer
+data engineer,Data Engineer,31,600000,13.17,Middle Data Enginer
+data engineer,Engineer,29,,7.83,Engineer
+data engineer,Machine Learning Engineer,24,,2.83,ML/Data Engineer
+data engineer,Data analyst  Data engeneer  Data Scientist,22,,2.5,Data Engineer
+data engineer,Network engineer,27,,7.83,Data Network Engineer
+data engineer,SAP Support Engineer,37,800000,10.67,CMMS Data Verification Engineer
+data engineer,Data engineer,28,1075000,5.5,Ведущий разработчик
+data engineer,ABAP-разработчик Фриланс,35,,7.42,Data engineer
+data engineer,ИТ-специалист  Data engineer Web developer  Sharepoint engineer,25,,3.92,Data engineer  SharePoint Engineer
+data engineer,Data Engineer,22,,0.25,Web-разработчик
+data engineer,Data Engineer,26,,5.25,Старший эксперт
+data engineer,Data Scientist,21,,1.17,Data analyst
+data engineer,engineer,29,300000,7.17,Программист
+data engineer,ETL\DWH Support Engineer  BI Engineer,37,,14.58,Data Engeneer
+data engineer,GIS/Data Analyst  Scientist  Engineer,30,,5.92,IM Data Analyst
+data engineer,Data analyst,22,,2.67,Data Analyst
+data engineer,Инженер-программист,30,,6.42,Big Data Engineer
+data engineer,Analyst/Engineer,29,,5.42,Project Manager
+data engineer,Data scientist,30,,4.67,Data Science / Programming
+data engineer,Engineer,26,,0.75,Research Assistant
+data engineer,Data Engineer,22,,1.83,Research developer
+data engineer,Engineer,26,,3.83,Industrial Engineer
+data engineer,Machine Learning engineer,20,,1.42,ML engineer
+data engineer,Data Analyst,31,,6.33,CRM Manager
+data engineer,Data Analyst,24,,4.92,Data Analyst
+data engineer,Petroleum engineer/ Data Analyst,24,,1.92,Petroleum inspector
+data engineer,Engineer,NaN,600000,3.25,Technical Engineer (Pipeline)
+data engineer,Разработчик  big data developer  big data engineer,34,,10.58,Big Data Engineer
+data engineer,Engineer,25,,3.17,Planning engineer
+data engineer,Engineer,25,,3.58,Systematization and Validation Engineer
+data engineer,Engineer,31,800000,9.67,Wireless network engineer
+data engineer,Project Engineer / Coordinator,36,,8.83,Engineer
+data engineer,Data analyst  Engineer  IT specialist,28,,7.25,Senior Data Analyst
+data engineer,Data engineer intern,21,,0.58,Foreman
+data engineer,Telecommunications Engineer,28,390000,6.33,Engineer
+data engineer,Data engineer,25,,2.17,Data Engineer
+data engineer,Data Analyst (Junior),22,,0.5,Data Engineer
+data engineer,Data Engineer  Data Quality Engineer,28,,6.67,Data Engineer  Data Quality Engineer
+data engineer,Engineer,22,,1.92,Data Operator
+data engineer,Data engineer,25,,3.42,Data Engineer
+data engineer,Data Engineer,31,600000,13.17,Middle Data Enginer
+data engineer,Engineer,29,,7.83,Engineer
+data engineer,Machine Learning Engineer,24,,2.83,ML/Data Engineer
+data engineer,Data analyst  Data engeneer  Data Scientist,22,,2.5,Data Engineer
+data engineer,Network engineer,27,,7.83,Data Network Engineer
+data engineer,SAP Support Engineer,37,800000,10.67,CMMS Data Verification Engineer
+data engineer,Data engineer,28,1075000,5.5,Ведущий разработчик
+data engineer,ABAP-разработчик Фриланс,35,,7.42,Data engineer
+data engineer,ИТ-специалист  Data engineer Web developer  Sharepoint engineer,25,,3.92,Data engineer  SharePoint Engineer
+data engineer,Data Engineer,22,,0.25,Web-разработчик
+data engineer,Data Engineer,26,,5.25,Старший эксперт
+data engineer,Data Scientist,21,,1.17,Data analyst
+data engineer,engineer,29,300000,7.17,Программист
+data engineer,ETL\DWH Support Engineer  BI Engineer,37,,14.58,Data Engeneer
+data engineer,GIS/Data Analyst  Scientist  Engineer,30,,5.92,IM Data Analyst
+data engineer,Data analyst,22,,2.67,Data Analyst
+data engineer,Инженер-программист,30,,6.42,Big Data Engineer
+data engineer,Analyst/Engineer,29,,5.42,Project Manager
+data engineer,Data scientist,30,,4.67,Data Science / Programming
+data engineer,Engineer,26,,0.75,Research Assistant
+data engineer,Data Engineer,22,,1.83,Research developer
+data engineer,Engineer,26,,3.83,Industrial Engineer
+data engineer,Machine Learning engineer,20,,1.42,ML engineer
+data engineer,Data Analyst,31,,6.33,CRM Manager
+data engineer,Data Analyst,24,,4.92,Data Analyst
+data engineer,Petroleum engineer/ Data Analyst,24,,1.92,Petroleum inspector
+data engineer,Engineer,NaN,600000,3.25,Technical Engineer (Pipeline)
+data engineer,Разработчик  big data developer  big data engineer,34,,10.58,Big Data Engineer
+data engineer,Engineer,25,,3.17,Planning engineer
+data engineer,Engineer,25,,3.58,Systematization and Validation Engineer
+data engineer,Engineer,31,800000,9.67,Wireless network engineer
+data engineer,Project Engineer / Coordinator,36,,8.83,Engineer
+data engineer,Data analyst  Engineer  IT specialist,28,,7.25,Senior Data Analyst
+data engineer,Data engineer intern,21,,0.58,Foreman
+data engineer,Telecommunications Engineer,28,390000,6.33,Engineer
+data engineer,Data engineer,25,,2.17,Data Engineer
+data engineer,Data Analyst (Junior),22,,0.5,Data Engineer
+data engineer,Data Engineer  Data Quality Engineer,28,,6.67,Data Engineer  Data Quality Engineer
+data engineer,Engineer,22,,1.92,Data Operator
+data engineer,Data engineer,25,,3.42,Data Engineer
+data engineer,Data Engineer,31,600000,13.17,Middle Data Enginer
+data engineer,Engineer,29,,7.83,Engineer
+data engineer,Machine Learning Engineer,24,,2.83,ML/Data Engineer
+data engineer,Data analyst  Data engeneer  Data Scientist,22,,2.5,Data Engineer
+data engineer,Network engineer,27,,7.83,Data Network Engineer
+data engineer,SAP Support Engineer,37,800000,10.67,CMMS Data Verification Engineer
+data engineer,Data engineer,28,1075000,5.5,Ведущий разработчик
+data engineer,ABAP-разработчик Фриланс,35,,7.42,Data engineer
+data engineer,ИТ-специалист  Data engineer Web developer  Sharepoint engineer,25,,3.92,Data engineer  SharePoint Engineer
+data engineer,Data Engineer,22,,0.25,Web-разработчик
+data engineer,Data Engineer,26,,5.25,Старший эксперт
+data engineer,Data Scientist,21,,1.17,Data analyst
+data engineer,engineer,29,300000,7.17,Программист
+data engineer,ETL\DWH Support Engineer  BI Engineer,37,,14.58,Data Engeneer
+data engineer,GIS/Data Analyst  Scientist  Engineer,30,,5.92,IM Data Analyst
+data engineer,Data analyst,22,,2.67,Data Analyst
+data engineer,Инженер-программист,30,,6.42,Big Data Engineer
+data engineer,Analyst/Engineer,29,,5.42,Project Manager
+data engineer,Data scientist,30,,4.67,Data Science / Programming
+data engineer,Engineer,26,,0.75,Research Assistant
+data engineer,Data Engineer,22,,1.83,Research developer
+data engineer,Engineer,26,,3.83,Industrial Engineer
+data engineer,Machine Learning engineer,20,,1.42,ML engineer
+data engineer,Data Analyst,31,,6.33,CRM Manager
+data engineer,Data Analyst,24,,4.92,Data Analyst
+data engineer,Petroleum engineer/ Data Analyst,24,,1.92,Petroleum inspector
+data engineer,Engineer,NaN,600000,3.25,Technical Engineer (Pipeline)
+data engineer,Разработчик  big data developer  big data engineer,34,,10.58,Big Data Engineer
+data engineer,Engineer,25,,3.17,Planning engineer
+data engineer,Engineer,25,,3.58,Systematization and Validation Engineer
+data engineer,Engineer,31,800000,9.67,Wireless network engineer
+data engineer,Project Engineer / Coordinator,36,,8.83,Engineer
+data engineer,Data analyst  Engineer  IT specialist,28,,7.25,Senior Data Analyst
+data engineer,Data engineer intern,21,,0.58,Foreman
+data engineer,Telecommunications Engineer,28,390000,6.33,Engineer
+data engineer,Data engineer,25,,2.17,Data Engineer
+data engineer,Data Analyst (Junior),22,,0.5,Data Engineer
+data engineer,Data Engineer  Data Quality Engineer,28,,6.67,Data Engineer  Data Quality Engineer
+data engineer,Engineer,22,,1.92,Data Operator
+data engineer,Data engineer,25,,3.42,Data Engineer
+data engineer,Data Engineer,31,600000,13.17,Middle Data Enginer
+data engineer,Engineer,29,,7.83,Engineer
+data engineer,Machine Learning Engineer,24,,2.83,ML/Data Engineer
+data engineer,Data analyst  Data engeneer  Data Scientist,22,,2.5,Data Engineer
+data engineer,Network engineer,27,,7.83,Data Network Engineer
+data engineer,SAP Support Engineer,37,800000,10.67,CMMS Data Verification Engineer
+data engineer,Data engineer,28,1075000,5.5,Ведущий разработчик
+data engineer,ABAP-разработчик Фриланс,35,,7.42,Data engineer
+data engineer,ИТ-специалист  Data engineer Web developer  Sharepoint engineer,25,,3.92,Data engineer  SharePoint Engineer
+data engineer,Data Engineer,22,,0.25,Web-разработчик
+data engineer,Data Engineer,26,,5.25,Старший эксперт
+data engineer,Data Scientist,21,,1.17,Data analyst
+data engineer,engineer,29,300000,7.17,Программист
+data engineer,ETL\DWH Support Engineer  BI Engineer,37,,14.58,Data Engeneer
+data engineer,GIS/Data Analyst  Scientist  Engineer,30,,5.92,IM Data Analyst
+data engineer,Data analyst,22,,2.67,Data Analyst
+data engineer,Инженер-программист,30,,6.42,Big Data Engineer
+data engineer,Analyst/Engineer,29,,5.42,Project Manager
+data engineer,Data scientist,30,,4.67,Data Science / Programming
+data engineer,Engineer,26,,0.75,Research Assistant
+data engineer,Data Engineer,22,,1.83,Research developer
+data engineer,Engineer,26,,3.83,Industrial Engineer
+data engineer,Machine Learning engineer,20,,1.42,ML engineer
+data engineer,Data Analyst,31,,6.33,CRM Manager
+data engineer,Data Analyst,24,,4.92,Data Analyst
+data engineer,Petroleum engineer/ Data Analyst,24,,1.92,Petroleum inspector
+data engineer,Engineer,NaN,600000,3.25,Technical Engineer (Pipeline)
+data engineer,Разработчик  big data developer  big data engineer,34,,10.58,Big Data Engineer
+data engineer,Engineer,25,,3.17,Planning engineer
+data engineer,Engineer,25,,3.58,Systematization and Validation Engineer
+data engineer,Engineer,31,800000,9.67,Wireless network engineer
+data engineer,Project Engineer / Coordinator,36,,8.83,Engineer
+data engineer,Data analyst  Engineer  IT specialist,28,,7.25,Senior Data Analyst
+data engineer,Data engineer intern,21,,0.58,Foreman
+data engineer,Telecommunications Engineer,28,390000,6.33,Engineer
+data engineer,Data engineer,25,,2.17,Data Engineer
+data engineer,Data Analyst (Junior),22,,0.5,Data Engineer
+data engineer,Data Engineer  Data Quality Engineer,28,,6.67,Data Engineer  Data Quality Engineer
+data engineer,Engineer,22,,1.92,Data Operator
+data engineer,Data engineer,25,,3.42,Data Engineer
+data engineer,Data Engineer,31,600000,13.17,Middle Data Enginer
+data engineer,Engineer,29,,7.83,Engineer
+data engineer,Machine Learning Engineer,24,,2.83,ML/Data Engineer
+data engineer,Data analyst  Data engeneer  Data Scientist,22,,2.5,Data Engineer
+data engineer,Network engineer,27,,7.83,Data Network Engineer
+data engineer,SAP Support Engineer,37,800000,10.67,CMMS Data Verification Engineer
+data engineer,Data engineer,28,1075000,5.5,Ведущий разработчик
+data engineer,ABAP-разработчик Фриланс,35,,7.42,Data engineer
+data engineer,ИТ-специалист  Data engineer Web developer  Sharepoint engineer,25,,3.92,Data engineer  SharePoint Engineer
+data engineer,Data Engineer,22,,0.25,Web-разработчик
+data engineer,Data Engineer,26,,5.25,Старший эксперт
+data engineer,Data Scientist,21,,1.17,Data analyst
+data engineer,engineer,29,300000,7.17,Программист
+data engineer,ETL\DWH Support Engineer  BI Engineer,37,,14.58,Data Engeneer
+data engineer,GIS/Data Analyst  Scientist  Engineer,30,,5.92,IM Data Analyst
+data engineer,Data analyst,22,,2.67,Data Analyst
+data engineer,Инженер-программист,30,,6.42,Big Data Engineer
+data engineer,Analyst/Engineer,29,,5.42,Project Manager
+data engineer,Data scientist,30,,4.67,Data Science / Programming
+data engineer,Engineer,26,,0.75,Research Assistant
+data engineer,Data Engineer,22,,1.83,Research developer
+data engineer,Engineer,26,,3.83,Industrial Engineer
+data engineer,Machine Learning engineer,20,,1.42,ML engineer
+data engineer,Data Analyst,31,,6.33,CRM Manager
+data engineer,Data Analyst,24,,4.92,Data Analyst
+data engineer,Petroleum engineer/ Data Analyst,24,,1.92,Petroleum inspector
+data engineer,Engineer,NaN,600000,3.25,Technical Engineer (Pipeline)
+data engineer,Разработчик  big data developer  big data engineer,34,,10.58,Big Data Engineer
+data engineer,Engineer,25,,3.17,Planning engineer
+data engineer,Engineer,25,,3.58,Systematization and Validation Engineer
+data engineer,Engineer,31,800000,9.67,Wireless network engineer
+data engineer,Project Engineer / Coordinator,36,,8.83,Engineer
+data engineer,Data analyst  Engineer  IT specialist,28,,7.25,Senior Data Analyst
+data engineer,Data engineer intern,21,,0.58,Foreman
+data engineer,Telecommunications Engineer,28,390000,6.33,Engineer
+python,Python разработчик,22,,1.25,Junior Python Developer
+python,Python разработчик,20,,1.58,backend разработчик на python
+python,Python Developer,18,,1.33,Python Web Developer
+python,Программист Python,22,,1.17,Backend Django разработчик
+python,Python Разработчик,22,250000,0.08,Python-Backend разработчик
+python,Программист Python,25,,2.17,Препродаватель Python Programming Language
+python,Программист Python,20,,0.42,Software Developer
+python,Python developer,22,300000,1.58,Куратор-преподаватель по JavaScript и Python (Django)
+python,Python разработчик,27,,8.5,Программист Python
+python,Python  JS,27,,4.17,Senior Front-end
+python,Программист-разработчик,22,,1.42,Разработчик
+python,Python Developer,26,,0.42,Web-разработчик
+python,Middle Back-end python developer,28,430000,4.5,Python developer Django  Rest Framework
+python,Python Developer  Teacher,18,,0.83,Python Backend
+python,Программист Python,21,,0.17,Практикант
+python,Программист Python,21,,0.83,Разработчик ПО
+python,Python backend developer,21,1200000,2.33,Middle python developer
+python,Python разработчик,22,,0.42,Системный администратор Стажер
+python,Разработчик Python,29,250000,0.58,Инженер-лаборант
+python,Python programmer,23,,2.67,Programmer/developer
+python,Специалист по МТО,36,,0.42,Тренер по Python
+python,Python Developer,31,,7.75,Computer Scientist
+python,Программист Python,23,60000,0,Unknown
+python,Программист,27,,4.33,Middle Python Dev
+python,Python Engineer,19,,0,Unknown
+python,Backend-разработчик Python,29,,9.83,Full stack разработчик
+python,Junior Python Developer,20,150000,0.42,Контент-менеджер
+python,Junior Python,20,,0.25,Практикант
+python,Python разработчик,21,,0,Unknown
+python,Python programmer,29,150000,0,Unknown
+python,Программист Python,24,400000,0.5,Ведущий эксперт департамента разработки и развития роботизац
+python,Программист Python,24,150000,1.33,Специалист по IT
+python,Junior-тестировщик,21,,0.67,Intern Python Developer
+python,Программист Python,17,,2.33,Нет
+python,Python Back-end разработчик,21,,2.58,Python Back-end Developer
+python,Программист Python,23,,4.25,Инженер технической поддержки
+python,Программист Python,25,60000.0,3.83,Специалист по IT
+python,Python Backend developer(Django),22,1000000,1.25,Backend developer
+python,Software developer,30,,3.5,Python Developer / Data analyst
+python,Программист  Тим-лид,24,860000,4.33,Python разработчик
+python,Python разработчик,22,,1.25,Junior Python Developer
+python,Python разработчик,20,,1.58,backend разработчик на python
+python,Python Developer,18,,1.33,Python Web Developer
+python,Программист Python,22,,1.17,Backend Django разработчик
+python,Python Разработчик,22,250000,0.08,Python-Backend разработчик
+python,Программист Python,25,,2.17,Препродаватель Python Programming Language
+python,Программист Python,20,,0.42,Software Developer
+python,Python developer,22,300000,1.58,Куратор-преподаватель по JavaScript и Python (Django)
+python,Python разработчик,27,,8.5,Программист Python
+python,Python  JS,27,,4.17,Senior Front-end
+python,Программист-разработчик,22,,1.42,Разработчик
+python,Python Developer,26,,0.42,Web-разработчик
+python,Middle Back-end python developer,28,430000,4.5,Python developer Django  Rest Framework
+python,Python Developer  Teacher,18,,0.83,Python Backend
+python,Программист Python,21,,0.17,Практикант
+python,Программист Python,21,,0.83,Разработчик ПО
+python,Python backend developer,21,1200000,2.33,Middle python developer
+python,Python разработчик,22,,0.42,Системный администратор Стажер
+python,Разработчик Python,29,250000,0.58,Инженер-лаборант
+python,Python programmer,23,,2.67,Programmer/developer
+python,Специалист по МТО,36,,0.42,Тренер по Python
+python,Python Developer,31,,7.75,Computer Scientist
+python,Программист Python,23,60000,0,Unknown
+python,Программист,27,,4.33,Middle Python Dev
+python,Python Engineer,19,,0,Unknown
+python,Backend-разработчик Python,29,,9.83,Full stack разработчик
+python,Junior Python Developer,20,150000,0.42,Контент-менеджер
+python,Junior Python,20,,0.25,Практикант
+python,Python разработчик,21,,0,Unknown
+python,Python programmer,29,150000,0,Unknown
+python,Программист Python,24,400000,0.5,Ведущий эксперт департамента разработки и развития роботизац
+python,Программист Python,24,150000,1.33,Специалист по IT
+python,Junior-тестировщик,21,,0.67,Intern Python Developer
+python,Программист Python,17,,2.33,Нет
+python,Python Back-end разработчик,21,,2.58,Python Back-end Developer
+python,Программист Python,23,,4.25,Инженер технической поддержки
+python,Программист Python,25,60000.0,3.83,Специалист по IT
+python,Python Backend developer(Django),22,1000000,1.25,Backend developer
+python,Software developer,30,,3.5,Python Developer / Data analyst
+python,Программист  Тим-лид,24,860000,4.33,Python разработчик
+python,Python разработчик,22,,1.25,Junior Python Developer
+python,Python разработчик,20,,1.58,backend разработчик на python
+python,Python Developer,18,,1.33,Python Web Developer
+python,Программист Python,22,,1.17,Backend Django разработчик
+python,Python Разработчик,22,250000,0.08,Python-Backend разработчик
+python,Программист Python,25,,2.17,Препродаватель Python Programming Language
+python,Программист Python,20,,0.42,Software Developer
+python,Python developer,22,300000,1.58,Куратор-преподаватель по JavaScript и Python (Django)
+python,Python разработчик,27,,8.5,Программист Python
+python,Python  JS,27,,4.17,Senior Front-end
+python,Программист-разработчик,22,,1.42,Разработчик
+python,Python Developer,26,,0.42,Web-разработчик
+python,Middle Back-end python developer,28,430000,4.5,Python developer Django  Rest Framework
+python,Python Developer  Teacher,18,,0.83,Python Backend
+python,Программист Python,21,,0.17,Практикант
+python,Программист Python,21,,0.83,Разработчик ПО
+python,Python backend developer,21,1200000,2.33,Middle python developer
+python,Python разработчик,22,,0.42,Системный администратор Стажер
+python,Разработчик Python,29,250000,0.58,Инженер-лаборант
+python,Python programmer,23,,2.67,Programmer/developer
+python,Специалист по МТО,36,,0.42,Тренер по Python
+python,Python Developer,31,,7.75,Computer Scientist
+python,Программист Python,23,60000,0,Unknown
+python,Программист,27,,4.33,Middle Python Dev
+python,Python Engineer,19,,0,Unknown
+python,Backend-разработчик Python,29,,9.83,Full stack разработчик
+python,Junior Python Developer,20,150000,0.42,Контент-менеджер
+python,Junior Python,20,,0.25,Практикант
+python,Python разработчик,21,,0,Unknown
+python,Python programmer,29,150000,0,Unknown
+python,Программист Python,24,400000,0.5,Ведущий эксперт департамента разработки и развития роботизац
+python,Программист Python,24,150000,1.33,Специалист по IT
+python,Junior-тестировщик,21,,0.67,Intern Python Developer
+python,Программист Python,17,,2.33,Нет
+python,Python Back-end разработчик,21,,2.58,Python Back-end Developer
+python,Программист Python,23,,4.25,Инженер технической поддержки
+python,Программист Python,25,60000.0,3.83,Специалист по IT
+python,Python Backend developer(Django),22,1000000,1.25,Backend developer
+python,Software developer,30,,3.5,Python Developer / Data analyst
+python,Программист  Тим-лид,24,860000,4.33,Python разработчик
+python,Python разработчик,22,,1.25,Junior Python Developer
+python,Python разработчик,20,,1.58,backend разработчик на python
+python,Python Developer,18,,1.33,Python Web Developer
+python,Программист Python,22,,1.17,Backend Django разработчик
+python,Python Разработчик,22,250000,0.08,Python-Backend разработчик
+python,Программист Python,25,,2.17,Препродаватель Python Programming Language
+python,Программист Python,20,,0.42,Software Developer
+python,Python developer,22,300000,1.58,Куратор-преподаватель по JavaScript и Python (Django)
+python,Python разработчик,27,,8.5,Программист Python
+python,Python  JS,27,,4.17,Senior Front-end
+python,Программист-разработчик,22,,1.42,Разработчик
+python,Python Developer,26,,0.42,Web-разработчик
+python,Middle Back-end python developer,28,430000,4.5,Python developer Django  Rest Framework
+python,Python Developer  Teacher,18,,0.83,Python Backend
+python,Программист Python,21,,0.17,Практикант
+python,Программист Python,21,,0.83,Разработчик ПО
+python,Python backend developer,21,1200000,2.33,Middle python developer
+python,Python разработчик,22,,0.42,Системный администратор Стажер
+python,Разработчик Python,29,250000,0.58,Инженер-лаборант
+python,Python programmer,23,,2.67,Programmer/developer
+python,Специалист по МТО,36,,0.42,Тренер по Python
+python,Python Developer,31,,7.75,Computer Scientist
+python,Программист Python,23,60000,0,Unknown
+python,Программист,27,,4.33,Middle Python Dev
+python,Python Engineer,19,,0,Unknown
+python,Backend-разработчик Python,29,,9.83,Full stack разработчик
+python,Junior Python Developer,20,150000,0.42,Контент-менеджер
+python,Junior Python,20,,0.25,Практикант
+python,Python разработчик,21,,0,Unknown
+python,Python programmer,29,150000,0,Unknown
+python,Программист Python,24,400000,0.5,Ведущий эксперт департамента разработки и развития роботизац
+python,Программист Python,24,150000,1.33,Специалист по IT
+python,Junior-тестировщик,21,,0.67,Intern Python Developer
+python,Программист Python,17,,2.33,Нет
+python,Python Back-end разработчик,21,,2.58,Python Back-end Developer
+python,Программист Python,23,,4.25,Инженер технической поддержки
+python,Программист Python,25,60000.0,3.83,Специалист по IT
+python,Python Backend developer(Django),22,1000000,1.25,Backend developer
+python,Software developer,30,,3.5,Python Developer / Data analyst
+python,Программист  Тим-лид,24,860000,4.33,Python разработчик
+python,Python разработчик,22,,1.25,Junior Python Developer
+python,Python разработчик,20,,1.58,backend разработчик на python
+python,Python Developer,18,,1.33,Python Web Developer
+python,Программист Python,22,,1.17,Backend Django разработчик
+python,Python Разработчик,22,250000,0.08,Python-Backend разработчик
+python,Программист Python,25,,2.17,Препродаватель Python Programming Language
+python,Программист Python,20,,0.42,Software Developer
+python,Python developer,22,300000,1.58,Куратор-преподаватель по JavaScript и Python (Django)
+python,Python разработчик,27,,8.5,Программист Python
+python,Python  JS,27,,4.17,Senior Front-end
+python,Программист-разработчик,22,,1.42,Разработчик
+python,Python Developer,26,,0.42,Web-разработчик
+python,Middle Back-end python developer,28,430000,4.5,Python developer Django  Rest Framework
+python,Python Developer  Teacher,18,,0.83,Python Backend
+python,Программист Python,21,,0.17,Практикант
+python,Программист Python,21,,0.83,Разработчик ПО
+python,Python backend developer,21,1200000,2.33,Middle python developer
+python,Python разработчик,22,,0.42,Системный администратор Стажер
+python,Разработчик Python,29,250000,0.58,Инженер-лаборант
+python,Python programmer,23,,2.67,Programmer/developer
+python,Специалист по МТО,36,,0.42,Тренер по Python
+python,Python Developer,31,,7.75,Computer Scientist
+python,Программист Python,23,60000,0,Unknown
+python,Программист,27,,4.33,Middle Python Dev
+python,Python Engineer,19,,0,Unknown
+python,Backend-разработчик Python,29,,9.83,Full stack разработчик
+python,Junior Python Developer,20,150000,0.42,Контент-менеджер
+python,Junior Python,20,,0.25,Практикант
+python,Python разработчик,21,,0,Unknown
+python,Python programmer,29,150000,0,Unknown
+python,Программист Python,24,400000,0.5,Ведущий эксперт департамента разработки и развития роботизац
+python,Программист Python,24,150000,1.33,Специалист по IT
+python,Junior-тестировщик,21,,0.67,Intern Python Developer
+python,Программист Python,17,,2.33,Нет
+python,Python Back-end разработчик,21,,2.58,Python Back-end Developer
+python,Программист Python,23,,4.25,Инженер технической поддержки
+python,Программист Python,25,60000.0,3.83,Специалист по IT
+python,Python Backend developer(Django),22,1000000,1.25,Backend developer
+python,Software developer,30,,3.5,Python Developer / Data analyst
+python,Программист  Тим-лид,24,860000,4.33,Python разработчик
+sql,Oracle PL/SQL разработчик,20,150000,0.5,Стажер PL/SQL разработчик
+sql,SQL разработчик,22,,0.75,Программист-разработчик
+sql,Аналитик SQL,23,,1.08,Аналитик
+sql,Программист SQL,NaN,,0,Unknown
+sql,Аналитик SQL,25,,2.08,Сервисный инженер  Администратор сайта  Helpdesk
+sql,SQL developer,21,,1.5,Специалист отдела корпоративных продаж
+sql,Аналитик sql,24,,4.58,Главный специалист
+sql,Программист PL/SQL,38,1200000,17.33,Главный специалист направления управленческого учета и отчетности Управления бюджетирования и контролинга Финансового блока
+sql,Sql разработчик,24,,1.33,Computer network support specialist
+sql,Разработчик PL/SQL,29,,12.92,Главный эксперт
+sql,SQL Server DBA  Developer,29,,7.33,Database Administrator
+sql,Инженер,28,,6.42,Программист SQL
+sql,Программист Oracle PL SQL,50,900000,21.33,Менеджер проектов
+sql,Программист SQL,20,70000,0.58,SMM
+sql,Программист Python  SQL,26,,0.5,Frontend-разработчик
+sql,Программист Delphi + SQL,36,,10.33,Инженер-электронщик
+sql,Data Engineer (SQL),30,,7.67,Data Enginer
+sql,Программист-разработчик,23,550000,2.92,Программист SQL
+sql,Oracle PL\SQL Developer,50,,28.33,Программист
+sql,Программист T-SQL,26,200000,2.75,storekeeper
+sql,Junior specialist of the technical department,22,200000,0.83,QA Engineer (тестировщик)
+sql,Oracle Pl/Sql разработчик,38,1000000,1.42,Программист-разработчик
+sql,Начинающий специалист,28,,4.42,Oracle SQL разработчик  BI разработчик
+sql,программист Delphi  SQL,40,400000,18.33,Инженер-программист группы разработки
+sql,Разработчик(PL/SQL PHP Laravel),24,,3.33,Главный специалист
+sql,Программист-разработчик,21,200000,0.5,sql-разработчик
+sql,Инженер-программист,21,500000,1.58,PL/SQL Developer
+sql,Дата аналитик бизнес аналитик  data scientist,25,,3.67,Ведущий специалист(Ведущий Дата аналитик)
+sql,Разработчик sql  программист разработчик  data engineer   dwh разработчик,24,,0.5,Программист-разработчик
+sql,программист Oracle,56,860,15.25,Главный специалист отдела информационных технологий
+sql,Руководитель отдела IT,32,645000,10.67,Технический директор
+sql,Junior PL/SQL Developer Тестировщик,28,200000,6.58,Наставник
+sql,Программист-разработчик,38,500000,11.42,Delphi/MSSQL developer
+sql,Машинное обучение   дата аналитик   sql,21,,0,Unknown
+sql,Senior Backend Developer,29,1505000,0.58,Full Stack Developer
+sql,Программист разработчик  эксперт по внедрению ERP  CRM  АБИС  DWH. MS SQL  Oracle. ETL,51,,25.42,Главный специалист Отдела перспективных технологий Департамента трансформации
+sql,Программист-разработчик,22,,1.58,Full Stack
+sql,Программист c#  .Net Core  ASP.Net Core  .Net  MVC  SQL  Back-end разработчик,42,,9.33,BackEnd Developer .Net C#
+sql,Python SQL R Data Science Statistics AI Machine Learning Advanced Analytics Market Data Analysis,NaN,,16.08,Study Scientific Leader  Data Science and Advanced Analytics
+sql,Junior Data Scientist/Data Analyst/Data Engineer/Machine Learning,19,,0.33,Technical Support Intern
+sql,Oracle PL/SQL разработчик,20,150000,0.5,Стажер PL/SQL разработчик
+sql,SQL разработчик,22,,0.75,Программист-разработчик
+sql,Аналитик SQL,23,,1.08,Аналитик
+sql,Программист SQL,NaN,,0,Unknown
+sql,Аналитик SQL,25,,2.08,Сервисный инженер  Администратор сайта  Helpdesk
+sql,SQL developer,21,,1.5,Специалист отдела корпоративных продаж
+sql,Аналитик sql,24,,4.58,Главный специалист
+sql,Программист PL/SQL,38,1200000,17.33,Главный специалист направления управленческого учета и отчетности Управления бюджетирования и контролинга Финансового блока
+sql,Sql разработчик,24,,1.33,Computer network support specialist
+sql,Разработчик PL/SQL,29,,12.92,Главный эксперт
+sql,SQL Server DBA  Developer,29,,7.33,Database Administrator
+sql,Инженер,28,,6.42,Программист SQL
+sql,Программист Oracle PL SQL,50,900000,21.33,Менеджер проектов
+sql,Программист SQL,20,70000,0.58,SMM
+sql,Программист Python  SQL,26,,0.5,Frontend-разработчик
+sql,Программист Delphi + SQL,36,,10.33,Инженер-электронщик
+sql,Data Engineer (SQL),30,,7.67,Data Enginer
+sql,Программист-разработчик,23,550000,2.92,Программист SQL
+sql,Oracle PL\SQL Developer,50,,28.33,Программист
+sql,Программист T-SQL,26,200000,2.75,storekeeper
+sql,Junior specialist of the technical department,22,200000,0.83,QA Engineer (тестировщик)
+sql,Oracle Pl/Sql разработчик,38,1000000,1.42,Программист-разработчик
+sql,Начинающий специалист,28,,4.42,Oracle SQL разработчик  BI разработчик
+sql,программист Delphi  SQL,40,400000,18.33,Инженер-программист группы разработки
+sql,Разработчик(PL/SQL PHP Laravel),24,,3.33,Главный специалист
+sql,Программист-разработчик,21,200000,0.5,sql-разработчик
+sql,Инженер-программист,21,500000,1.58,PL/SQL Developer
+sql,Дата аналитик бизнес аналитик  data scientist,25,,3.67,Ведущий специалист(Ведущий Дата аналитик)
+sql,Разработчик sql  программист разработчик  data engineer   dwh разработчик,24,,0.5,Программист-разработчик
+sql,программист Oracle,56,860,15.25,Главный специалист отдела информационных технологий
+sql,Руководитель отдела IT,32,645000,10.67,Технический директор
+sql,Junior PL/SQL Developer Тестировщик,28,200000,6.58,Наставник
+sql,Программист-разработчик,38,500000,11.42,Delphi/MSSQL developer
+sql,Машинное обучение   дата аналитик   sql,21,,0,Unknown
+sql,Senior Backend Developer,29,1505000,0.58,Full Stack Developer
+sql,Программист разработчик  эксперт по внедрению ERP  CRM  АБИС  DWH. MS SQL  Oracle. ETL,51,,25.42,Главный специалист Отдела перспективных технологий Департамента трансформации
+sql,Программист-разработчик,22,,1.58,Full Stack
+sql,Программист c#  .Net Core  ASP.Net Core  .Net  MVC  SQL  Back-end разработчик,42,,9.33,BackEnd Developer .Net C#
+sql,Python SQL R Data Science Statistics AI Machine Learning Advanced Analytics Market Data Analysis,NaN,,16.08,Study Scientific Leader  Data Science and Advanced Analytics
+sql,Junior Data Scientist/Data Analyst/Data Engineer/Machine Learning,19,,0.33,Technical Support Intern
+sql,Oracle PL/SQL разработчик,20,150000,0.5,Стажер PL/SQL разработчик
+sql,SQL разработчик,22,,0.75,Программист-разработчик
+sql,Аналитик SQL,23,,1.08,Аналитик
+sql,Программист SQL,NaN,,0,Unknown
+sql,Аналитик SQL,25,,2.08,Сервисный инженер  Администратор сайта  Helpdesk
+sql,SQL developer,21,,1.5,Специалист отдела корпоративных продаж
+sql,Аналитик sql,24,,4.58,Главный специалист
+sql,Программист PL/SQL,38,1200000,17.33,Главный специалист направления управленческого учета и отчетности Управления бюджетирования и контролинга Финансового блока
+sql,Sql разработчик,24,,1.33,Computer network support specialist
+sql,Разработчик PL/SQL,29,,12.92,Главный эксперт
+sql,SQL Server DBA  Developer,29,,7.33,Database Administrator
+sql,Инженер,28,,6.42,Программист SQL
+sql,Программист Oracle PL SQL,50,900000,21.33,Менеджер проектов
+sql,Программист SQL,20,70000,0.58,SMM
+sql,Программист Python  SQL,26,,0.5,Frontend-разработчик
+sql,Программист Delphi + SQL,36,,10.33,Инженер-электронщик
+sql,Data Engineer (SQL),30,,7.67,Data Enginer
+sql,Программист-разработчик,23,550000,2.92,Программист SQL
+sql,Oracle PL\SQL Developer,50,,28.33,Программист
+sql,Программист T-SQL,26,200000,2.75,storekeeper
+sql,Junior specialist of the technical department,22,200000,0.83,QA Engineer (тестировщик)
+sql,Oracle Pl/Sql разработчик,38,1000000,1.42,Программист-разработчик
+sql,Начинающий специалист,28,,4.42,Oracle SQL разработчик  BI разработчик
+sql,программист Delphi  SQL,40,400000,18.33,Инженер-программист группы разработки
+sql,Разработчик(PL/SQL PHP Laravel),24,,3.33,Главный специалист
+sql,Программист-разработчик,21,200000,0.5,sql-разработчик
+sql,Инженер-программист,21,500000,1.58,PL/SQL Developer
+sql,Дата аналитик бизнес аналитик  data scientist,25,,3.67,Ведущий специалист(Ведущий Дата аналитик)
+sql,Разработчик sql  программист разработчик  data engineer   dwh разработчик,24,,0.5,Программист-разработчик
+sql,программист Oracle,56,860,15.25,Главный специалист отдела информационных технологий
+sql,Руководитель отдела IT,32,645000,10.67,Технический директор
+sql,Junior PL/SQL Developer Тестировщик,28,200000,6.58,Наставник
+sql,Программист-разработчик,38,500000,11.42,Delphi/MSSQL developer
+sql,Машинное обучение   дата аналитик   sql,21,,0,Unknown
+sql,Senior Backend Developer,29,1505000,0.58,Full Stack Developer
+sql,Программист разработчик  эксперт по внедрению ERP  CRM  АБИС  DWH. MS SQL  Oracle. ETL,51,,25.42,Главный специалист Отдела перспективных технологий Департамента трансформации
+sql,Программист-разработчик,22,,1.58,Full Stack
+sql,Программист c#  .Net Core  ASP.Net Core  .Net  MVC  SQL  Back-end разработчик,42,,9.33,BackEnd Developer .Net C#
+sql,Python SQL R Data Science Statistics AI Machine Learning Advanced Analytics Market Data Analysis,NaN,,16.08,Study Scientific Leader  Data Science and Advanced Analytics
+sql,Junior Data Scientist/Data Analyst/Data Engineer/Machine Learning,19,,0.33,Technical Support Intern
+sql,Oracle PL/SQL разработчик,20,150000,0.5,Стажер PL/SQL разработчик
+sql,SQL разработчик,22,,0.75,Программист-разработчик
+sql,Аналитик SQL,23,,1.08,Аналитик
+sql,Программист SQL,NaN,,0,Unknown
+sql,Аналитик SQL,25,,2.08,Сервисный инженер  Администратор сайта  Helpdesk
+sql,SQL developer,21,,1.5,Специалист отдела корпоративных продаж
+sql,Аналитик sql,24,,4.58,Главный специалист
+sql,Программист PL/SQL,38,1200000,17.33,Главный специалист направления управленческого учета и отчетности Управления бюджетирования и контролинга Финансового блока
+sql,Sql разработчик,24,,1.33,Computer network support specialist
+sql,Разработчик PL/SQL,29,,12.92,Главный эксперт
+sql,SQL Server DBA  Developer,29,,7.33,Database Administrator
+sql,Инженер,28,,6.42,Программист SQL
+sql,Программист Oracle PL SQL,50,900000,21.33,Менеджер проектов
+sql,Программист SQL,20,70000,0.58,SMM
+sql,Программист Python  SQL,26,,0.5,Frontend-разработчик
+sql,Программист Delphi + SQL,36,,10.33,Инженер-электронщик
+sql,Data Engineer (SQL),30,,7.67,Data Enginer
+sql,Программист-разработчик,23,550000,2.92,Программист SQL
+sql,Oracle PL\SQL Developer,50,,28.33,Программист
+sql,Программист T-SQL,26,200000,2.75,storekeeper
+sql,Junior specialist of the technical department,22,200000,0.83,QA Engineer (тестировщик)
+sql,Oracle Pl/Sql разработчик,38,1000000,1.42,Программист-разработчик
+sql,Начинающий специалист,28,,4.42,Oracle SQL разработчик  BI разработчик
+sql,программист Delphi  SQL,40,400000,18.33,Инженер-программист группы разработки
+sql,Разработчик(PL/SQL PHP Laravel),24,,3.33,Главный специалист
+sql,Программист-разработчик,21,200000,0.5,sql-разработчик
+sql,Инженер-программист,21,500000,1.58,PL/SQL Developer
+sql,Дата аналитик бизнес аналитик  data scientist,25,,3.67,Ведущий специалист(Ведущий Дата аналитик)
+sql,Разработчик sql  программист разработчик  data engineer   dwh разработчик,24,,0.5,Программист-разработчик
+sql,программист Oracle,56,860,15.25,Главный специалист отдела информационных технологий
+sql,Руководитель отдела IT,32,645000,10.67,Технический директор
+sql,Junior PL/SQL Developer Тестировщик,28,200000,6.58,Наставник
+sql,Программист-разработчик,38,500000,11.42,Delphi/MSSQL developer
+sql,Машинное обучение   дата аналитик   sql,21,,0,Unknown
+sql,Senior Backend Developer,29,1505000,0.58,Full Stack Developer
+sql,Программист разработчик  эксперт по внедрению ERP  CRM  АБИС  DWH. MS SQL  Oracle. ETL,51,,25.42,Главный специалист Отдела перспективных технологий Департамента трансформации
+sql,Программист-разработчик,22,,1.58,Full Stack
+sql,Программист c#  .Net Core  ASP.Net Core  .Net  MVC  SQL  Back-end разработчик,42,,9.33,BackEnd Developer .Net C#
+sql,Python SQL R Data Science Statistics AI Machine Learning Advanced Analytics Market Data Analysis,NaN,,16.08,Study Scientific Leader  Data Science and Advanced Analytics
+sql,Junior Data Scientist/Data Analyst/Data Engineer/Machine Learning,19,,0.33,Technical Support Intern
+sql,Oracle PL/SQL разработчик,20,150000,0.5,Стажер PL/SQL разработчик
+sql,SQL разработчик,22,,0.75,Программист-разработчик
+sql,Аналитик SQL,23,,1.08,Аналитик
+sql,Программист SQL,NaN,,0,Unknown
+sql,Аналитик SQL,25,,2.08,Сервисный инженер  Администратор сайта  Helpdesk
+sql,SQL developer,21,,1.5,Специалист отдела корпоративных продаж
+sql,Аналитик sql,24,,4.58,Главный специалист
+sql,Программист PL/SQL,38,1200000,17.33,Главный специалист направления управленческого учета и отчетности Управления бюджетирования и контролинга Финансового блока
+sql,Sql разработчик,24,,1.33,Computer network support specialist
+sql,Разработчик PL/SQL,29,,12.92,Главный эксперт
+sql,SQL Server DBA  Developer,29,,7.33,Database Administrator
+sql,Инженер,28,,6.42,Программист SQL
+sql,Программист Oracle PL SQL,50,900000,21.33,Менеджер проектов
+sql,Программист SQL,20,70000,0.58,SMM
+sql,Программист Python  SQL,26,,0.5,Frontend-разработчик
+sql,Программист Delphi + SQL,36,,10.33,Инженер-электронщик
+sql,Data Engineer (SQL),30,,7.67,Data Enginer
+sql,Программист-разработчик,23,550000,2.92,Программист SQL
+sql,Oracle PL\SQL Developer,50,,28.33,Программист
+sql,Программист T-SQL,26,200000,2.75,storekeeper
+sql,Junior specialist of the technical department,22,200000,0.83,QA Engineer (тестировщик)
+sql,Oracle Pl/Sql разработчик,38,1000000,1.42,Программист-разработчик
+sql,Начинающий специалист,28,,4.42,Oracle SQL разработчик  BI разработчик
+sql,программист Delphi  SQL,40,400000,18.33,Инженер-программист группы разработки
+sql,Разработчик(PL/SQL PHP Laravel),24,,3.33,Главный специалист
+sql,Программист-разработчик,21,200000,0.5,sql-разработчик
+sql,Инженер-программист,21,500000,1.58,PL/SQL Developer
+sql,Дата аналитик бизнес аналитик  data scientist,25,,3.67,Ведущий специалист(Ведущий Дата аналитик)
+sql,Разработчик sql  программист разработчик  data engineer   dwh разработчик,24,,0.5,Программист-разработчик
+sql,программист Oracle,56,860,15.25,Главный специалист отдела информационных технологий
+sql,Руководитель отдела IT,32,645000,10.67,Технический директор
+sql,Junior PL/SQL Developer Тестировщик,28,200000,6.58,Наставник
+sql,Программист-разработчик,38,500000,11.42,Delphi/MSSQL developer
+sql,Машинное обучение   дата аналитик   sql,21,,0,Unknown
+sql,Senior Backend Developer,29,1505000,0.58,Full Stack Developer
+sql,Программист разработчик  эксперт по внедрению ERP  CRM  АБИС  DWH. MS SQL  Oracle. ETL,51,,25.42,Главный специалист Отдела перспективных технологий Департамента трансформации
+sql,Программист-разработчик,22,,1.58,Full Stack
+sql,Программист c#  .Net Core  ASP.Net Core  .Net  MVC  SQL  Back-end разработчик,42,,9.33,BackEnd Developer .Net C#
+sql,Python SQL R Data Science Statistics AI Machine Learning Advanced Analytics Market Data Analysis,NaN,,16.08,Study Scientific Leader  Data Science and Advanced Analytics
+sql,Junior Data Scientist/Data Analyst/Data Engineer/Machine Learning,19,,0.33,Technical Support Intern
